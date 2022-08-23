@@ -107,8 +107,7 @@
       continously to our backend servers or once you are in a Wi-Fi. This means, your data is now also stored in the cloud and is 
       available via the web on your personal account at https://posmo.datamap.io.</p>
       <p>From your personal account, you can download the data as csv (text with comma separated values) and inspect it. You can also delete your data. 
-    </p>
-    
+    </p>    
     <h3>2.4. JSON Web Tokens (JWT)</h3>
     <p>
         We use JSON Web Tokens for authorization requests and to operate and provide our Services on the web. We do not use tracking cookies. JSON Web Tokens are an open industry standard (RFC 7519), a method for representing claims securely between two parties. When a user logs in, the JSON Web Token is saved in the HTML5 Local Storage of the browser, along with basic user profile information that needs to be present when the page is refreshed.
