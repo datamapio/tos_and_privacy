@@ -80,12 +80,11 @@
         Location Data: Opened Places<br />
         Location Tracking Data: Latitude, Longitude, Altitude, Speed, Direction, Pressure, Sensor Data, e.g. Accelerometer<br />
         Machine Learning Data<br /></p>
-    <p>When using our POSMO One App movement data is automatically recorded unless you switch to "Do Not Track". The data is either sent continously to our backend servers or once you are in a Wi-Fi. This means, your data is now also stored in the cloud and is 
-       available via the web on your personal account at posmo.datamap.io.</p>
+    <p>When using our POSMO One App movement data is automatically recorded unless you switch to "Do Not Track". The data is either sent continously to our backend servers or once you are in a Wi-Fi environment. This means, your data is now also stored in the cloud and is 
+       available via the web on your personal account at https://posmo.datamap.io.</p>
     <p>From your personal account, you can download the data as csv (text with comma separated values) and inspect it. You can also delete your data. 
     </p>
-    
-    <h4>2.3.3 POSMO B App (not published)</h4>
+    <h4>2.3.3 POSMO B App (unpublished)</h4>
     <p>
       User Data: UUID identifier, Age<br />
       (Optional: User Name)<br />
@@ -104,9 +103,9 @@
       Location Tracking Data: Latitude, Longitude, Altitude, Speed, Direction, Pressure, Sensor Data, e.g. Accelerometer<br />
       Machine Learning Data<br />
     </p>
-     <p>When using our POSMO One App movement data is automatically recorded unless you switch to <b>Do Not Track</b>. The data is either sent 
+     <p>When using our POSMO One App movement data is automatically recorded unless you switch to "Do Not Track". The data is either sent 
       continously to our backend servers or once you are in a Wi-Fi. This means, your data is now also stored in the cloud and is 
-      available via the web on your personal account at posmo.datamap.io.</p>
+      available via the web on your personal account at https://posmo.datamap.io.</p>
       <p>From your personal account, you can download the data as csv (text with comma separated values) and inspect it. You can also delete your data. 
     </p>
     
