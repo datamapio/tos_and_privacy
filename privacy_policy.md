@@ -112,9 +112,10 @@
     <p>
         We use JSON Web Tokens for authorization requests and to operate and provide our Services on the web. We do not use tracking cookies. JSON Web Tokens are an open industry standard (RFC 7519), a method for representing claims securely between two parties. When a user logs in, the JSON Web Token is saved in the HTML5 Local Storage of the browser, along with basic user profile information that needs to be present when the page is refreshed.
     </p>
-    <h3>2.5. Usage and User Analytics (Matomo or Google Analytics, Fabric)</h3>
+    <h3>2.5. Usage and User Analytics (Matomo or Google Analytics, Fabric, Shipbook.io)</h3>
     <p>
-        To understand how our apps and services on the web perform, we need usage and user analytics. On the web, we currently use Google Analytics. We plan to switch to Matomo (see <a target="_blank" href="https://matomo.org">https://matomo.org</a>) in the near future, as we consider it a healthier alternative. We will also use analytics tools in our iOS and Android apps to track app crashes and usage.
+        To understand how our apps and services on the web perform, we need usage and user analytics. On the web, we currently use Google Analytics. We plan to switch to Matomo (see <a target="_blank" href="https://matomo.org">https://matomo.org</a>) in the near future, as we consider it a healthier alternative. We will also use analytics tools in our iOS and Android apps to track app crashes and usage.</p>
+<p>Since August 20, 2022, we also use https://shipbook.io, to log crashes during our Posmo Project rollout.</p>
     </p>
     <h2>3. How We Keep Your Personal Data Safe</h2>
     <h3>3.1. Storing Data</h3>
