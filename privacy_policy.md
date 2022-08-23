@@ -70,7 +70,8 @@
         Motion Data: Accelerometer, Gyroscope, Magnetometer, Heading<br />
         Time Data: Timestamps for specific sensors<br />
     </p>
-    <p>From your personal account, you can download the data as csv (text with comma separated values) and inspect it. You can also delete your data. </p>
+    <p>From your personal account, you can download the data as csv (text with comma separated values) and inspect it. You can also delete your data. 
+    </p>
     <h4>2.3.2 POSMO One App</h4>
     <p>
         User Data: UUID identifier<br />
@@ -79,8 +80,10 @@
         Location Data: Opened Places<br />
         Location Tracking Data: Latitude, Longitude, Altitude, Speed, Direction, Pressure, Sensor Data, e.g. Accelerometer<br />
         Machine Learning Data<br /></p>
-    <p>When using our POSMO One App movement data is automatically recorded unless you switch to <b>Do Not Track</b>. The data is either sent continously to our backend servers or once you are in a Wi-Fi. This means, your data is now also stored in the cloud and is 
+    <p>When using our POSMO One App movement data is automatically recorded unless you switch to "Do Not Track". The data is either sent continously to our backend servers or once you are in a Wi-Fi. This means, your data is now also stored in the cloud and is 
        available via the web on your personal account at posmo.datamap.io.</p>
+    <p>From your personal account, you can download the data as csv (text with comma separated values) and inspect it. You can also delete your data. 
+    </p>
     
     <h4>2.3.3 POSMO B App (not published)</h4>
     <p>
@@ -104,6 +107,8 @@
      <p>When using our POSMO One App movement data is automatically recorded unless you switch to <b>Do Not Track</b>. The data is either sent 
       continously to our backend servers or once you are in a Wi-Fi. This means, your data is now also stored in the cloud and is 
       available via the web on your personal account at posmo.datamap.io.</p>
+      <p>From your personal account, you can download the data as csv (text with comma separated values) and inspect it. You can also delete your data. 
+    </p>
     
     <h3>2.4. JSON Web Tokens (JWT)</h3>
     <p>
